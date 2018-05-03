@@ -29,11 +29,11 @@ function main(){
 }
 
 function handler(e){
-  if (e.keyCode === 38 && (indexOf.call(up.children[0].classList, 'cZdGOJ') >= 0 || indexOf.call(up.children[0].classList, 'kDEiCN') >= 0)){
+  if (e.keyCode === 38){
     up.click();
     return false
   }
-  if (e.keyCode === 40 && (indexOf.call(down.children[0].classList, 'gquANw') >= 0 || indexOf.call(down.children[0].classList, 'kQgIul') >= 0)){
+  if (e.keyCode === 40){
     down.click();
     return false
   }
