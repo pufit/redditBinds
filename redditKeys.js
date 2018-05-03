@@ -2,6 +2,8 @@
 // @name RedditKeys
 // @description Бинды для редита
 // @author Artem B.
+// @updateURL https://raw.githubusercontent.com/pufit/redditKeys/master/redditKeys.js
+// @downloadURL https://raw.githubusercontent.com/pufit/redditKeys/master/redditKeys.js
 // @license MIT
 // @version 1.0
 // @include https://*.reddit.com/*
