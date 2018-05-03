@@ -7,7 +7,6 @@
 // @license MIT
 // @version 1.0
 // @include https://*.reddit.com/*
-// @include https://*.vk.com/*
 // @require https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 // ==/UserScript==
 
